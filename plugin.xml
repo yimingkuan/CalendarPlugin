@@ -12,6 +12,7 @@
     </engines>    
 
     <asset src="www/calendar.js" target="calendar.js" />
+    <license>MIT</license>
 
     <platform name="ios">
         <source-file src="src/ios/CDVCalendar.h" />
